@@ -1,4 +1,4 @@
-# AOA-Module-23
+# AOA Module-23
 ## Day 1 - Minimum Cost Path
 ### Write a python program to Implement Minimum cost path using Dynamic Programming.
 ```py
